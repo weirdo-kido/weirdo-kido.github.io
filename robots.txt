@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /spantastic/
 
 Sitemap: https://weirdo-kido.github.io/
